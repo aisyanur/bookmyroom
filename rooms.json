@@ -1,0 +1,41 @@
+{
+  "app_title" : "Realtime Database",
+  "rooms" : {
+    "room_id: -L45G8B_hlNMsSlv7rph" : {
+      "roomAvailability" : "Available",
+      "roomCapacity" : "2",
+      "roomName" : "2A"
+    },
+    "room_id: -L45GdGIPaeABH3-TxHl" : {
+      "roomAvailability" : "Available",
+      "roomCapacity" : "2",
+      "roomName" : "2B"
+    },
+    "room_id: -L45GsRRTUSXMXCjNIAW" : {
+      "roomAvailability" : "Available",
+      "roomCapacity" : "4",
+      "roomName" : "4A"
+    },
+    "room_id: -L45H2MCzynBVTukH3Xc" : {
+      "roomAvailability" : "Available",
+      "roomCapacity" : "4",
+      "roomName" : "4B"
+    },
+    "room_id: -L45HE--C9BHuD_NvhZS" : {
+      "roomAvailability" : "Available",
+      "roomCapacity" : "6",
+      "roomName" : "6A"
+    },
+    "room_id: -L45HOzjG4Y-dMyaJGPg" : {
+      "roomAvailability" : "Available",
+      "roomCapacity" : "6",
+      "roomName" : "6B"
+    }
+  },
+  "users" : {
+    "-L3RQiZ6A8Z4Mp6x0NmP" : {
+      "email" : "test@test.com",
+      "name" : "test"
+    }
+  }
+}
